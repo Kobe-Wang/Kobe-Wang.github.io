@@ -81,4 +81,4 @@ deploy:
   type: git
   repo: 
     github: git@github.com:Kobe-Wang/Kobe-Wang.github.io.git
-  branch: master
+  branch: dev
