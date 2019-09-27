@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Horng-Tzer Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2013 14:00:20 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Horng-Tzer Wang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Clustering of Similar Malware Behavior via Structural Host-sequence Comparison</title>
+      <link>/publication/clustering_malware/</link>
+      <pubDate>Fri, 27 Sep 2013 14:00:20 +0800</pubDate>
+      <guid>/publication/clustering_malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Fast-flux Identification via Localized Spatial Geolocation Detection</title>
+      <link>/publication/fast_flux/</link>
+      <pubDate>Sat, 27 Oct 2012 14:00:20 +0800</pubDate>
+      <guid>/publication/fast_flux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Malware Detection via a Latent Network Behavior Analysis</title>
+      <link>/publication/android_malware/</link>
+      <pubDate>Thu, 27 Sep 2012 14:00:20 +0800</pubDate>
+      <guid>/publication/android_malware/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

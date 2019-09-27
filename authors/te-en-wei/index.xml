@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Horng-Tzer Wang</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Te-En Wei | Horng-Tzer Wang</title>
+    <link>/authors/te-en-wei/</link>
+      <atom:link href="/authors/te-en-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Te-En Wei</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2013 14:00:20 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Te-En Wei</title>
+      <link>/authors/te-en-wei/</link>
     </image>
     
     <item>

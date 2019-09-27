@@ -3,11 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ching-hao-mao/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/clustering_malware/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/hahn-ming-lee/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/horng-tzer-wang/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/te-en-wei/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/fast_flux/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/albert-b.-jeng/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/android_malware/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/horng-tzer-wang-and-dong-jie-wu/</loc>
+    <lastmod>2019-09-27T14:00:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
@@ -15,19 +81,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>

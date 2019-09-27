@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Horng-Tzer Wang</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <title>Horng-Tzer Wang</title>
+    <link>/authors/horng-tzer-wang/</link>
+      <atom:link href="/authors/horng-tzer-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Horng-Tzer Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2013 14:00:20 +0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Publications</title>
-      <link>/publication/</link>
+      <title>Horng-Tzer Wang</title>
+      <link>/authors/horng-tzer-wang/</link>
     </image>
     
     <item>
@@ -25,14 +25,6 @@
       <link>/publication/fast_flux/</link>
       <pubDate>Sat, 27 Oct 2012 14:00:20 +0800</pubDate>
       <guid>/publication/fast_flux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android Malware Detection via a Latent Network Behavior Analysis</title>
-      <link>/publication/android_malware/</link>
-      <pubDate>Thu, 27 Sep 2012 14:00:20 +0800</pubDate>
-      <guid>/publication/android_malware/</guid>
       <description></description>
     </item>
     

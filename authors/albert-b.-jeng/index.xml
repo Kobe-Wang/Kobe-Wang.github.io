@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Albert B. Jeng | Horng-Tzer Wang</title>
+    <link>/authors/albert-b.-jeng/</link>
+      <atom:link href="/authors/albert-b.-jeng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Albert B. Jeng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Sep 2012 14:00:20 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Albert B. Jeng</title>
+      <link>/authors/albert-b.-jeng/</link>
+    </image>
+    
+    <item>
+      <title>Android Malware Detection via a Latent Network Behavior Analysis</title>
+      <link>/publication/android_malware/</link>
+      <pubDate>Thu, 27 Sep 2012 14:00:20 +0800</pubDate>
+      <guid>/publication/android_malware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
